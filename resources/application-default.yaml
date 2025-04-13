@@ -1,0 +1,4 @@
+app:
+  user-pool: 5
+  user:
+    task-pool: 5
